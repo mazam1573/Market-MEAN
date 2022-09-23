@@ -1,0 +1,5 @@
+/market/dist
+/market/node_modules
+
+/market-service/dist
+/market-service/node_modules
